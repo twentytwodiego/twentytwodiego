@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 22diego</h1>
 
-- 🔭 I’m currently working on [ichzerstoerminraspibald](https://github.com/twentytwodiego/m122)
+- 🔭 I’m currently working on [Modul 122](https://github.com/twentytwodiego/m122)
 
 - 🌱 I’m currently learning **SSH**
 
