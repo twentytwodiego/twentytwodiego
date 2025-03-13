@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm 22diego</h1>
 
-- 🔭 I’m currently working on [ichzerstoerminraspibald](https://github.com/thiendoo/ichzerstoerminraspibald)
+- 🔭 I’m currently working on [ichzerstoerminraspibald](https://github.com/twentytwodiego/m122)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **SSH**
 
 - 📫 How to reach me **diego@vignuda.ch**
 
