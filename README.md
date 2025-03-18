@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on [Modul 122](https://github.com/twentytwodiego/m122)
 
-- 🌱 I’m currently learning **SSH**
+- 🌱 I’m currently learning **Bash**
 
 - 📫 How to reach me **diego@vignuda.ch**
 
-- ⚡ Fun fact **I spend most of my money for Pokémon TCG Pocket**
+- ⚡ Fun fact **I'm a day 1 I AM MUSIC defender**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
